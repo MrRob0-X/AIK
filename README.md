@@ -10,9 +10,9 @@
 twitter/git: shubhamvis98
 
 Usage:
-        ./unpack android_boot.img       #unpack boot.img
-        ./repack                        #repack new-boot.img
-        ./cleanup                       #clean workspace
+        ./unpackimg android_boot.img       #unpack boot.img
+        ./repackimg                        #repack new-boot.img
+        ./cleanup                          #clean workspace
 
 </pre>
 >**Source:**  
